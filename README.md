@@ -1,5 +1,5 @@
-# swagger-nife4j
-# swagger集成nife4j
+# swagger-knife4j
+# swagger集成knife4j
 ## 1.添加pom
 ```xml
 <!-- swagger -->

@@ -73,3 +73,5 @@ public class TestController {
     }
 }
 ```
+## 4.访问
+http://localhost:8081/doc.html
